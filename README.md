@@ -1,6 +1,4 @@
-Sure, here's the content formatted as a single README.md file:
 
-```markdown
 # ChatBuzz - Real-Time Chatting Website 🚀
 
 Welcome to ChatBuzz! ChatBuzz is an engaging real-time chatting platform designed to facilitate seamless communication among users. This repository contains the complete source code for the website, along with instructions on how to set it up locally and access the live version.
