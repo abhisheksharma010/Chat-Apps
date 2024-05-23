@@ -39,7 +39,7 @@ To get ChatBuzz up and running on your local machine, follow these simple steps:
 
 ## Live Demo 🌐
 
-You can access the live version of ChatBuzz [here]([https://chat-apps-zeta.vercel.app/]).
+You can access the live version of ChatBuzz [here](https://chat-apps-zeta.vercel.app/).
 
 ## Contributing 🤝
 
