@@ -1,4 +1,4 @@
-# ChatBuzz - Real-Time Chatting Website 🚀
+[# ChatBuzz - Real-Time Chatting Website 🚀
 
 Welcome to ChatBuzz! ChatBuzz is an exciting real-time chatting website built with the MERN stack, where users can engage in lively conversations, create groups, and connect with others seamlessly.
 
@@ -58,3 +58,4 @@ This will start the backend server at `http://localhost:5000`.
 ## Live Demo 🌐
 
 Check out the electrifying live demo of ChatBuzz [here](https://chat-apps-zeta.vercel.app/).
+](https://chat-apps-zeta.vercel.app/)
